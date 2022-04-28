@@ -18,3 +18,7 @@ Starting paragraph, remember to assign issue to myself.
 2. assign issue to myself.
 3. in VSCode, under github, issues, find the issue, might need a refresh.
 4. 
+
+question, 
+When do I do a pull request?
+
